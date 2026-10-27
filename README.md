@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Threema is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://threema.com/
+Threema is a secure messaging platform based in Switzerland that provides end‑to‑end encrypted communication for individuals and businesses. It offers products such as Threema Work, Threema OnPrem, and Threema Private, all GDPR‑compliant and designed for high‑security environments like public authorities, healthcare, and finance. The service emphasizes data sovereignty, zero‑knowledge security, and compliance with regulations such as NIS2 and DORA, making it a trusted alternative to mainstream messengers.
+
+**Areas:** Company · Messaging · Security · Privacy · GDPR
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://threema.com/)
+- [Pricing](https://threema.com/en/pricing)
+- [Sign up](https://threema.com/en/signup)
+- [Support](https://threema.com/en/support/work)
+- [Changelog](https://threema.com/en/changelog)
+- [Blog](https://threema.com/en/blog)
+- [Security](https://threema.com/en/why-threema/security)
+- [Terms of service](https://threema.com/en/tos)
+- [Privacy policy](https://threema.com/en/privacy-note)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/threema/](https://apis.io/providers/threema/).
